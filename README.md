@@ -1,4 +1,4 @@
-spicy_repository
+init_repo
 ================
 
-spicy repository
+initial repository
